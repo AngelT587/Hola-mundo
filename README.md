@@ -1,5 +1,5 @@
-# Hola-mundo
-Mi primer repositorio
+# Hola mundo
+Mi primer repositorio, en GITHUB
 
-Autor: Angel Arturo Torres
+Autor: Angel Torres
 Fecha:06-02/22
